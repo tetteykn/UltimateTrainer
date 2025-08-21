@@ -3,10 +3,10 @@
         "input_type": "DirectInput"
     },
     "settings": {
-        "closeToTray": true,
+        "closeToTray": false,
         "minimizeToTray": false,
         "runMinimizedToTray": false,
-        "runWithSystem": true
+        "runWithSystem": false
     },
     "theme": {
         "current_theme": "Dark"
