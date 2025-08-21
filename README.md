@@ -26,7 +26,7 @@ Automatically displays your hotkeys and address descriptions directly in the GUI
 **7. 🔄 Flexible Hotkey Modes _(Enabled solely for individually licensed products.)_**  
 Set hotkeys to hold or toggle, choose the address value type, and fine-tune according to your needs.
 
-**8. 🖥️ Process Name Configuration**  
+**8. 🖥️ Process Name Configuration _(Enabled solely for individually licensed products.)_**  
 Specify the process name in a text file for seamless use with the trainer.
 
 **9. 🔗 Automatic Address Updates**  
