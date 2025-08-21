@@ -16,7 +16,7 @@ A versatile and high-performance tool for game hacking.
    Configure the trainer to NOP memory bytes or inject code dynamically to obtain addresses. Fully customize hotkeys for any address to match your preferences.  
 
 5. **Comprehensive Teleport Menu**  
-   Select a game folder containing game-specific coordinates, save and load player positions with unlimited slots, and manage saved locations through transferable and editable text files.  
+   Save and load player positions with unlimited slots, and manage saved locations through transferable and editable text files.  
 
 6. **Dynamic Hotkey Display (_Enabled solely for individually licensed products._)**  
    Automatically displays your hotkeys and address descriptions directly in the GUI, adapting seamlessly to any game you choose.  
