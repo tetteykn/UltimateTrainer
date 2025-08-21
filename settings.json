@@ -1,0 +1,14 @@
+{
+    "input": {
+        "input_type": "DirectInput"
+    },
+    "settings": {
+        "closeToTray": true,
+        "minimizeToTray": false,
+        "runMinimizedToTray": false,
+        "runWithSystem": true
+    },
+    "theme": {
+        "current_theme": "Dark"
+    }
+}

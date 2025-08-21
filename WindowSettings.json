@@ -1,0 +1,25 @@
+{
+    "GameWindowSizes": {
+        "DyingLightGame_x64_rwdi": {
+            "height": 482,
+            "width": 959
+        },
+        "GTA5": {
+            "height": 459,
+            "width": 771
+        },
+        "Gw2-64": {
+            "height": 530,
+            "width": 770
+        },
+        "gapa": {
+            "height": 300,
+            "width": 569
+        },
+        "nightreign": {
+            "height": 628,
+            "width": 794
+        }
+    },
+    "LastSelectedProfile": "GTA5"
+}
