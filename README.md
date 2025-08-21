@@ -9,7 +9,7 @@ A versatile and high-performance tool for game hacking.
 Built with a custom driver that operates at the kernel level, allowing the trainer to interact directly with game processes without restrictions. This ensures compatibility even with protected or hard-to-access games.
 
 **2. ⚡ Dynamic Code Injection**  
-Automatically injects code into memory bytes, eliminating the need for static pointer addresses. The trainer dynamically acquires updated addresses every time the game updates.
+Automatically inject code into memory bytes and obtain the addresses dynamically, eliminating the need for static pointer addresses.
 
 **3. 🎛️ Customizable Hotkey Combinations _(Enabled solely for individually licensed products.)_**  
 Use any combination of hotkeys without limitations, including complex combinations of more than four keys.
