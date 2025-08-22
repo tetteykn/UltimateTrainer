@@ -1,3 +1,126 @@
+Proprietary Software License
+Copyright (c) 2025 UltimateTrainer. All rights reserved.
+End User License Agreement (EULA)
+This End User License Agreement ("Agreement") is a legal agreement between you ("User" or "Licensee") and UltimateTrainer ("Licensor") for the Ultimate Game Trainer software, including all associated files, documentation, and updates (collectively, the "Software").
+BY DOWNLOADING, INSTALLING, OR USING THIS SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.
 
-File name: LICENSE
-Location: Root directory of your repository
+1. GRANT OF LICENSE
+Subject to your compliance with this Agreement, Licensor grants you a limited, non-exclusive, non-transferable, revocable license to:
+
+Install and use the Software on a single device for personal, non-commercial use
+Use the Software with games for which you have purchased a valid game profile license
+Access community-shared game profiles if you hold an active license
+
+
+2. TRIAL PERIOD
+You may evaluate the Software free of charge for 2 (two) days, excluding premium features such as money-editing capabilities in certain online games. After the trial period, continued use requires purchase of appropriate game profile licenses.
+
+3. LICENSE RESTRICTIONS
+YOU MAY NOT:
+Technical Restrictions:
+
+Reverse engineer, decompile, disassemble, or attempt to derive the source code
+Modify, adapt, alter, translate, or create derivative works of the Software
+Remove, alter, or obscure any proprietary notices, labels, or marks
+Bypass, disable, or circumvent any security measures, licensing mechanisms, or access controls
+Extract, copy, or reproduce any kernel-level drivers or code injection components
+
+Distribution Restrictions:
+
+Distribute, sell, rent, lease, sublicense, or transfer the Software or any portion thereof
+Share your license key, account credentials, or hardware fingerprint data
+Upload, post, or make available the Software on file-sharing platforms, forums, or websites
+Create or distribute modified versions, patches, or unofficial updates
+
+Usage Restrictions:
+
+Use for commercial purposes without explicit written permission
+Use in conjunction with unauthorized game modifications or competing trainer software
+Violate game publishers' terms of service or engage in activities that harm other players' experience
+Use the individually licensed features without purchasing the appropriate personal license
+
+
+4. LICENSING MODELS
+Standard Game Profiles:
+
+Pre-configured trainer versions with fixed features
+Non-transferable, lifetime license per game profile
+No setup required, ready-to-use functionality
+
+Individually Licensed Products (Personal Version):
+
+Complete customization of hotkeys, process names, and display settings
+Offline functionality for your registered device
+Requires separate purchase and hardware-specific licensing
+Includes dynamic hotkey display and flexible memory management features
+
+
+5. HARDWARE FINGERPRINTING & LICENSE VALIDATION
+
+Each license is tied to your specific hardware configuration
+Anonymous hardware data is collected solely for license validation purposes
+No personal information is collected or stored
+License transfers between devices are not permitted
+Attempts to circumvent hardware fingerprinting will result in license termination
+
+
+6. INTELLECTUAL PROPERTY RIGHTS
+
+The Software is proprietary and confidential to Licensor
+This Agreement grants you no ownership rights in the Software
+All rights, title, and interest remain exclusively with Licensor
+The Software contains trade secrets and proprietary algorithms protected by law
+
+
+7. UPDATES AND SUPPORT
+
+Licensor may provide updates, patches, and new game profiles at its discretion
+Updates are subject to the same license terms as the original Software
+No guarantee of compatibility with future game versions or operating system updates
+Community game profiles are user-contributed and verified for quality
+
+
+8. PROHIBITED ACTIVITIES
+STRICTLY FORBIDDEN:
+
+Sharing, reselling, or redistributing the trainer or license keys
+Creating tutorials or guides for circumventing license protection
+Using the Software in competitive multiplayer environments where prohibited
+Attempting to extract or reverse-engineer the kernel-level driver components
+Modifying configuration files to enable unlicensed features
+
+
+9. TERMINATION
+
+This license is effective until terminated
+Licensor may terminate this license immediately if you breach any terms
+Upon termination, you must cease all use and delete all copies of the Software
+Sections relating to intellectual property, liability, and governing law survive termination
+
+
+10. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+11. LIMITATION OF LIABILITY
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF DATA, GAME ACCOUNT SUSPENSIONS, OR BUSINESS INTERRUPTION, ARISING FROM USE OF THE SOFTWARE.
+
+12. REFUND POLICY
+NO REFUNDS are provided after purchase due to the digital nature of the Software and immediate access to functionality upon license activation.
+
+13. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with applicable copyright and software licensing laws. Any disputes arising under this Agreement shall be subject to the exclusive jurisdiction of the courts in Licensor's jurisdiction.
+
+14. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between you and Licensor regarding the Software and supersedes all prior understandings or agreements.
+
+15. CONTACT INFORMATION
+For licensing inquiries, technical support, or legal matters:
+
+Repository: https://github.com/UltimateTrainer
+Issues: Report via GitHub Issues
+Licensing: Contact through repository
+
+
+By using this Software, you acknowledge that you have read, understood, and agree to be bound by the terms of this Proprietary Software License Agreement.
+Last Updated: August 2025
+Version: 1.0
