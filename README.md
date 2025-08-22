@@ -35,7 +35,22 @@ Byte addresses in the configuration file are updated automatically when the game
 ---
 
 
----
+## Additional Information:
+- **Licensing:** Non-transferable, lifetime license for the purchased game profile. No refunds after purchase.
+- **Privacy:** No personal information collected; only minimal anonymous hardware data is used for license validation.  
+- **Community Game Profiles:** Shared by users, verified for quality, and available to all licensed members.  
+- **Fair Play:** Intended for fun and single-player use. Do not ruin others’ gaming experience.  
+- **Restrictions:** Sharing, reselling, reverse engineering, or redistributing the trainer is prohibited.  
+- **Individually licensed products:** allow complete customization of hotkeys, process names, and dynamic display of address descriptions.  
+- **Standard trainer versions:** come pre-configured with fixed features and do not require any setup.  
+- Users who own their personal product must independently find specific game cheats and configure them in the text file or use pre-configured games profiles from community, refer to this [video](https://youtu.be/km12syrbTpE)  guide how to do that.  
 
+---
 ## Future Growth  
 This trainer is designed to evolve continuously. Our team will regularly add new game profiles and features, ensuring that the list of supported games keeps expanding over time. Officers will maintain and update profiles to guarantee seamless compatibility with the latest game releases and patches.
+
+This tool represents over five months of dedicated development and will continue to receive ongoing enhancements.  
+You may evaluate it free of charge for **2 days** (excluding money-editing features in certain online games with limited purchase durations). After the trial period, you will be required to purchase the pre-configured game profile you wish to use.
+
+
+In the meantime, please contact our team if you are interested in purchasing a **personal version** that works **offline** for your device.
