@@ -7,7 +7,7 @@ A versatile and high-performance tool for game hacking.
 
 **1. 🔒 Kernel-Level Access for Maximum Compatibility**  
 Built with a custom driver that operates at the kernel level, allowing the trainer to interact directly with game processes without restrictions. This ensures compatibility even with protected or hard-to-access games.  
-The trainer loads its custom driver using **KdMapper**, a trusted user-mode tool that maps unsigned drivers directly into kernel space without requiring traditional code signing, ensuring quick and hassle-free deployment.
+The trainer loads its custom driver using [KdMapper](https://github.com/TheCruZ/kdmapper), a trusted user-mode tool that maps unsigned drivers directly into kernel space without requiring traditional code signing, ensuring quick and hassle-free deployment.
 
 **2. ⚡ Dynamic Code Injection**  
 Automatically inject code into memory bytes and obtain the addresses dynamically, eliminating the need for static pointer addresses.
