@@ -5,21 +5,61 @@
             "width": 959
         },
         "GTA5": {
-            "height": 459,
-            "width": 771
+            "height": 933,
+            "width": 878
+        },
+        "GTA5_Enhanced": {
+            "height": 409,
+            "width": 778
+        },
+        "Game": {
+            "height": 378,
+            "width": 609
         },
         "Gw2-64": {
             "height": 530,
             "width": 770
+        },
+        "MGSDelta-Win64-Shipping": {
+            "height": 512,
+            "width": 738
+        },
+        "ONCE_HUMAN": {
+            "height": 369,
+            "width": 634
+        },
+        "SHProto-Win64-Shipping": {
+            "height": 359,
+            "width": 492
+        },
+        "SonsOfTheForest": {
+            "height": 893,
+            "width": 1210
+        },
+        "SpectralScream": {
+            "height": 422,
+            "width": 784
+        },
+        "TheDivision2": {
+            "height": 325,
+            "width": 607
+        },
+        "Wow": {
+            "height": 540,
+            "width": 662
+        },
+        "ffxiv_dx11": {
+            "height": 554,
+            "width": 718
         },
         "gapa": {
             "height": 300,
             "width": 569
         },
         "nightreign": {
-            "height": 628,
-            "width": 794
+            "height": 654,
+            "width": 795
         }
     },
-    "LastSelectedProfile": "GTA5"
+    "LastSelectedProfile": "SpectralScream"
 }
