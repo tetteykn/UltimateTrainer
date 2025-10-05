@@ -43,7 +43,7 @@ Byte addresses in the configuration file are updated automatically when the game
 - **Restrictions:** Sharing, reselling, reverse engineering, or redistributing the trainer is prohibited.  
 - **Individually licensed products:** allow complete customization of hotkeys, process names, and dynamic display of address descriptions.  
 - **Standard trainer versions:** come pre-configured with fixed features and do not require any setup.  
-- Users who own their personal product must independently find specific game cheats and configure them in the text file or use pre-configured game profiles from community, refer to this [video](https://youtu.be/km12syrbTpE) guide how to do that.  
+- Users who own their personal product must independently find specific game cheats and configure them in the text file or use pre-configured game profiles from community, refer to this [video](https://youtu.be/fSJHGF4dwqM) guide how to do that.  
 
 ---
 
