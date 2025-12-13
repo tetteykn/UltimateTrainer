@@ -1,28 +1,44 @@
 {
     "GameWindowSizes": {
+        "Albion-Online": {
+            "height": 349,
+            "width": 771
+        },
+        "Cemu": {
+            "height": 342,
+            "width": 713
+        },
+        "DyingLightGame": {
+            "height": 608,
+            "width": 768
+        },
         "DyingLightGame_x64_rwdi": {
             "height": 482,
             "width": 959
         },
         "GTA5": {
-            "height": 933,
-            "width": 878
+            "height": 955,
+            "width": 897
         },
         "GTA5_Enhanced": {
-            "height": 409,
-            "width": 778
+            "height": 987,
+            "width": 964
         },
         "Game": {
             "height": 378,
             "width": 609
         },
         "Gw2-64": {
-            "height": 530,
-            "width": 770
+            "height": 505,
+            "width": 764
         },
         "MGSDelta-Win64-Shipping": {
             "height": 512,
             "width": 738
+        },
+        "NWX-Win64-Shipping": {
+            "height": 502,
+            "width": 810
         },
         "ONCE_HUMAN": {
             "height": 369,
@@ -37,16 +53,24 @@
             "width": 1210
         },
         "SpectralScream": {
-            "height": 422,
+            "height": 467,
             "width": 784
         },
         "TheDivision2": {
             "height": 325,
             "width": 607
         },
+        "Wayfinder": {
+            "height": 800,
+            "width": 1300
+        },
         "Wow": {
             "height": 540,
             "width": 662
+        },
+        "eso64": {
+            "height": 300,
+            "width": 530
         },
         "ffxiv_dx11": {
             "height": 554,
@@ -61,5 +85,5 @@
             "width": 795
         }
     },
-    "LastSelectedProfile": "SpectralScream"
+    "LastSelectedProfile": "Dying Light 1-Steam"
 }
