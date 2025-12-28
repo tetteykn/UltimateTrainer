@@ -47,6 +47,39 @@ Byte addresses in the configuration file are updated automatically when the game
 
 ---
 
+## 🛠️ Troubleshooting
+
+### Driver Loading Issues
+
+If the driver fails to load, follow these steps:
+
+#### Step 1: Add Antivirus Exclusion
+Create an exception for `TrainerAppLauncher.exe` in your antivirus software.
+
+#### Step 2: Disable Vulnerable Driver Blocklist
+
+If the issue persists after adding the exclusion, you'll need to disable the Windows Vulnerable Driver Blocklist.
+
+**Method 1: Using Registry Files (Recommended)**
+1. Double-click `Disable Vulnerable Driver Blocklist.reg` to disable the blocklist
+2. Restart your PC
+3. To re-enable later, double-click `Enable Vulnerable Driver Blocklist.reg`
+
+**Method 2: Manual Registry Edit**
+1. Open the Registry Editor (`regedit`)
+2. Navigate to:
+```
+   HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\CI\Config
+```
+3. Double-click on `VulnerableDriverBlocklistEnable`
+4. Change the value from `1` to `0`
+5. Click **OK**
+6. Restart your PC
+
+> **⚠️ Important:** Remember to re-enable the blocklist after using the trainer to maintain system security.
+
+---
+
 ## Future Growth  
 This trainer is designed to evolve continuously. Our team will regularly add new game profiles and features, ensuring that the list of supported games keeps expanding over time. Officers will maintain and update profiles to guarantee seamless compatibility with the latest game releases and patches.
 
