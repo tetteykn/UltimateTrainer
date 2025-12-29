@@ -54,7 +54,7 @@ Byte addresses in the configuration file are updated automatically when the game
 If the driver fails to load, follow these steps:
 
 #### Step 1: Add Antivirus Exclusion
-Create an exception for `TrainerAppLauncher.exe` in your antivirus software.
+Create an exception for `TrainerAppLoader.exe` in your antivirus software.
 
 #### Step 2: Disable Vulnerable Driver Blocklist
 
