@@ -46,7 +46,6 @@ Byte addresses in the configuration file are updated automatically when the game
 - Users who own their personal product must independently find specific game cheats and configure them in the text file or use pre-configured game profiles from community, refer to this [video](https://youtu.be/fSJHGF4dwqM) guide how to do that.  
 
 ---
-
 ## 🛠️ Troubleshooting
 
 ### Driver Loading Issues
@@ -68,8 +67,8 @@ If the issue persists after adding the exclusion, you'll need to disable the Win
 **Method 2: Manual Registry Edit**
 1. Open the Registry Editor (`regedit`)
 2. Navigate to:
-```
-   HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\CI\Config
+```text
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\CI\Config
 ```
 3. Double-click on `VulnerableDriverBlocklistEnable`
 4. Change the value from `1` to `0`
@@ -78,6 +77,16 @@ If the issue persists after adding the exclusion, you'll need to disable the Win
 
 > **⚠️ Important:** Remember to re-enable the blocklist after using the trainer to maintain system security.
 
+#### Step 3: Restart Windows and Try Again
+
+On some recent versions of Windows 11, the driver may fail to load even when the Vulnerable Driver Blocklist is disabled.
+
+If this happens:
+
+1. Restart Windows and try again.
+2. If the driver still fails to load, restart Windows once more and try again.
+
+> **Note:** Some systems may require multiple restarts before the driver loads successfully.
 ---
 
 ## Future Growth  
