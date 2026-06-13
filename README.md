@@ -10,7 +10,7 @@ Built with a custom driver that operates at the kernel level, allowing the train
 The trainer loads its custom driver using [KdMapper](https://github.com/TheCruZ/kdmapper), a trusted user-mode tool that maps unsigned drivers directly into kernel space without requiring traditional code signing, ensuring quick and hassle-free deployment.
 
 **2. ⚡ Dynamic Code Injection**  
-Automatically inject code into memory bytes and obtain the addresses dynamically, eliminating the need for static pointer addresses.
+Automatically injects code into memory and resolves addresses dynamically, eliminating the need for static pointer addresses. This approach also ensures compatibility with emulators such as CEMU and PCSX2 — as long as the same emulator version is used.
 
 **3. 🎛️ Customizable Hotkey Combinations _(Enabled solely for individually licensed products.)_**  
 Use any combination of hotkeys without limitations, including complex combinations of more than four keys.
