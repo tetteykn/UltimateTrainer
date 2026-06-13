@@ -157,3 +157,7 @@ Whether you prefer a ready-to-use experience through the Standard Version or com
 
 ## 📥 Download
 [Ultimate Trainer](https://github.com/tetteykn/UltimateTrainer)
+
+[Discord](https://discord.com/invite/jRnaeTJ)
+
+
