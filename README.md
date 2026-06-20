@@ -1,5 +1,5 @@
-# 🌟 Ultimate Game Trainer
-A versatile multi-game trainer designed to support multiple games from a single application. Unlike traditional trainers that require a separate download for each game, this trainer contains all supported game profiles in one place. Simply select your game from the list and launch the desired features.
+# 🌟 Ultimate Games kernel Trainer
+A versatile multi-game kernel-level trainer designed to support multiple games from a single application. Unlike traditional trainers that require a separate download for each game, this trainer contains all supported game profiles in one place. Simply select your game from the list and launch the desired features.
 
 ---
 
@@ -21,7 +21,8 @@ Save and load player positions with unlimited slots. Locations can be exported, 
 Supports complex hotkey combinations, hold and toggle modes, and customizable activation methods.
 
 **Driver-Based Memory Access**
-The trainer utilizes a custom kernel-mode driver for memory access, providing compatibility with a wide range of supported games.
+The trainer utilizes a custom kernel-mode driver for memory access, providing compatibility with a wide range of supported games. If the driver cannot be loaded, the trainer can also operate in User Mode as a fallback, although functionality may be limited depending on the game.
+
 
 **Dynamic Interface**
 The trainer can automatically display configured hotkeys, descriptions, and game-specific options directly within the interface.
